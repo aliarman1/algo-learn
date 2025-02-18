@@ -22,6 +22,7 @@ The Algorithm Visualization project aims to create an interactive educational to
 - Merge Sort
 - Heap Sort
 
+
 #### Pathfinding Algorithms
 - Dijkstra's Algorithm
 - A* Search
